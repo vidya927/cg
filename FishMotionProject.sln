@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishMotionProject.Plugins", "FishMotionProject.Plugins.csproj", "{5E9676EA-E722-3B1E-C90A-D8012138F992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishMotionProject", "FishMotionProject.csproj", "{53D3F235-F3BD-B75A-7A2A-CF2AEBDF5F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishMotionProject.Editor.Plugins", "FishMotionProject.Editor.Plugins.csproj", "{FD4753B8-A145-22B4-194B-B0352F6C55FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E9676EA-E722-3B1E-C90A-D8012138F992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9676EA-E722-3B1E-C90A-D8012138F992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9676EA-E722-3B1E-C90A-D8012138F992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9676EA-E722-3B1E-C90A-D8012138F992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D3F235-F3BD-B75A-7A2A-CF2AEBDF5F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D3F235-F3BD-B75A-7A2A-CF2AEBDF5F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D3F235-F3BD-B75A-7A2A-CF2AEBDF5F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D3F235-F3BD-B75A-7A2A-CF2AEBDF5F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4753B8-A145-22B4-194B-B0352F6C55FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4753B8-A145-22B4-194B-B0352F6C55FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4753B8-A145-22B4-194B-B0352F6C55FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4753B8-A145-22B4-194B-B0352F6C55FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
