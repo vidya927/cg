@@ -7,7 +7,7 @@ public class Flock : MonoBehaviour {
 
     public GameObject goalprefab;
     public GameObject fishPrefab;
-    static int numfish = 10;
+    static int numfish = 50;
     public static int tanksize = 20;
     public static GameObject[] allfish = new GameObject[numfish];
     public static Vector3 Targetpos = Vector3.zero;

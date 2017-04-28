@@ -73,7 +73,7 @@ public class Swim : MonoBehaviour {
         if (groupsize > 0)
         {
             Vector3 direction;
-            Flock.t = Flock.TargetType.Danger;
+            Flock.t = Flock.TargetType.Normal;
             switch (Flock.t)
             {
                 case Flock.TargetType.Food:
